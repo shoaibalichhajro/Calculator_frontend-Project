@@ -1,2 +1,2 @@
-# Calculator_frontend-Project
+<img width="733" height="732" alt="image" src="https://github.com/user-attachments/assets/e3a06cf8-b352-40ac-91ad-0c43a196bdec" /><img width="733" height="732" alt="image" src="https://github.com/user-attachments/assets/6200e05d-5ca7-4cc7-b39c-0485619375f5" /># Calculator_frontend-Project
 Calculator – A responsive calculator built with HTML, CSS, and JavaScript. It performs basic arithmetic operations with real-time calculations and a clean UI. Features include addition, subtraction, multiplication, division, decimal support, clear and delete buttons, responsive design, DOM manipulation, event handling, and error handling.
